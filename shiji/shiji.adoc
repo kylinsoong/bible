@@ -1,2 +1,10 @@
 
 = 史记
+:toc: manual
+:toc-placement: preamble
+
+史记
+
+== 七国地图
+
+image:img/zhanguo-map.png[七国地图]
