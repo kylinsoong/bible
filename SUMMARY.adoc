@@ -3,4 +3,5 @@
 . link:shiji/shiji.adoc[史记]
 .. link:shiji/xu.adoc[太史公自序]
 .. link:shiji/liezhuan.adoc[列传]
+... link:shiji/ranghou.adoc[穰侯]
 ... link:shiji/baiqi.adoc[白起]
