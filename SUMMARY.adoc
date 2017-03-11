@@ -2,6 +2,9 @@
 
 . link:shiji/shiji.adoc[史记]
 .. link:shiji/xu.adoc[太史公自序]
+.. link:shiji/baoren.adoc[报任少卿书]
+.. link:shiji/benji.adoc[本纪]
+... link:shiji/benji_wudi.adoc[五帝]
 .. link:shiji/liezhuan.adoc[列传]
 ... link:shiji/ranghou.adoc[穰侯]
 ... link:shiji/baiqi.adoc[白起]
