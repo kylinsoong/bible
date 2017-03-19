@@ -8,3 +8,6 @@
 .. link:shiji/liezhuan.adoc[列传]
 ... link:shiji/ranghou.adoc[穰侯]
 ... link:shiji/baiqi.adoc[白起]
+. link:dushubiji/biji.adoc[读书笔记]
+.. link:dushubiji/langduzhe/langduzhe.adoc[朗读者]
+... link:dushubiji/langduzhe/yujian.adoc[遇见]
