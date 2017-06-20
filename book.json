@@ -3,5 +3,5 @@
         "copyrightYear" :  "2017",
         "copyrightHolder" :  "Kylin Soong"
     },
-    "plugins": ["collapsible-menu", "-search"]
+    "plugins": ["collapsible-menu"]
 }

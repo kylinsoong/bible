@@ -12,3 +12,4 @@
 .. link:dushubiji/steve-jobs.adoc[2005 Stanford University Commencement]
 .. link:dushubiji/langduzhe/langduzhe.adoc[朗读者]
 ... link:dushubiji/langduzhe/yujian.adoc[遇见]
+.. link:dushubiji/civilizations-and-enlightenments.adoc[文明之光]
