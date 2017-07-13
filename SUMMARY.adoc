@@ -12,6 +12,7 @@
 ... link:shiji/ranghou.adoc[穰侯]
 ... link:shiji/baiqi.adoc[白起]
 . link:dushubiji/biji.adoc[读书笔记]
+.. link:dushubiji/liuzhengyun.adoc[我们民族最缺的就是笨人]
 .. link:dushubiji/steve-jobs.adoc[2005 Stanford University Commencement]
 .. link:dushubiji/langduzhe/langduzhe.adoc[朗读者]
 ... link:dushubiji/langduzhe/yujian.adoc[遇见]
