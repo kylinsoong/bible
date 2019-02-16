@@ -1,8 +1,5 @@
 = 吴太伯
 :toc: manual
-:toc-placement: preamble
-
-.
 
 == 吴太伯（姬姓）家谱
 
